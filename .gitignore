@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node
+node_modules/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-error.log
+
+# Sandbox
+/tmp/ai_agent/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
