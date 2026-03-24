@@ -3,6 +3,19 @@
 A production-ready MVP that searches GitHub for open-source projects matching your query, clones them, runs them in an isolated local sandbox, and **automatically fixes small errors** — all powered by a local Ollama LLM.
 
 ---
+## System Flow (Live)
+
+![AutoAgent Init](images/autoagent_init.png)
+
+## Error Classification Output
+
+![Error Classification](images/error_classification.png)
+
+![Error Summary](images/error_summary.png)
+
+## Live Logs & Execution
+
+![Live Logs](images/live_logs.png)
 
 ## Architecture
 
